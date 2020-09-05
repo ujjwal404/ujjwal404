@@ -2,7 +2,7 @@
 
 ## I'm a student !
 
-- I’m currently learning
+- I’m currently learning ML 
 - 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
