@@ -1,4 +1,4 @@
-### Hi there, I'm [Ujjwal] 👋
+### Hi there, I'm Ujjwal 👋
 
 ## I'm a student !
 
