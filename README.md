@@ -19,13 +19,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ujjwal404&show_icons=true&theme=radical />
 
-
-</details>
 
 [twitter]: https://twitter.com
 [linkedin]: https://linkedin.com/in/codeSTACKr
