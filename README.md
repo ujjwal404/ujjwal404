@@ -1,6 +1,5 @@
 # Hi there, I'm Ujjwal 👋
 
-## I'm a student !
 
 - I’m currently learning ML 
 - 2020 Goals: Contribute more to Open Source projects
