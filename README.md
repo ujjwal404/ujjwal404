@@ -21,4 +21,4 @@
 
 
 [twitter]: https://twitter.com
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://linkedin.com
