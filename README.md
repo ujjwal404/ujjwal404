@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="![image](https://user-images.githubusercontent.com/63122405/121906132-70476a80-cd48-11eb-8429-efcebdfdab23.png)" />][linkedin] <br />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/63122405/121906132-70476a80-cd48-11eb-8429-efcebdfdab23.png" />][linkedin] <br />
 
 ### Languages and Tools:
 
