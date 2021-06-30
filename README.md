@@ -15,4 +15,4 @@
 [![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal404&show_icons=true&theme=radical )](https://github-readme-stats.vercel.app/api?username=ujjwal404&show_icons=true&theme=radical )
 
 
-[linkedin]: https://linkedin.com
+[linkedin]: https://linkedin.com/in/ujjwal-0343a0186
