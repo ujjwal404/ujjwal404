@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/63122405/121906132-70476a80-cd48-11eb-8429-efcebdfdab23.png" />][linkedin] <br />
+[<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/63122405/121906132-70476a80-cd48-11eb-8429-efcebdfdab23.png" />][linkedin] [<img src="https://img.icons8.com/color/50/000000/gmail-new.png"  width="22px"/>](mailto:ujjwalkadam68@gmail.com)  <br />
 
 ### Languages and Tools:
 
@@ -16,3 +16,4 @@
 
 
 [linkedin]: https://linkedin.com/in/ujjwal-0343a0186
+
