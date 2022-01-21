@@ -1,4 +1,5 @@
 # Hi there, I'm Ujjwal 👋
+A third year CSE undergraduate at NSUT, Delhi.
 
 ### Connect with me:
 
