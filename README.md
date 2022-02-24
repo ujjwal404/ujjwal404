@@ -15,5 +15,5 @@ A third year CSE undergraduate at NSUT, Delhi.
 [![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal404&show_icons=true&theme=radical )](https://github-readme-stats.vercel.app/api?username=ujjwal404&show_icons=true&theme=radical )
 
 
-[linkedin]: https://linkedin.com/in/ujjwal-0343a0186
+[linkedin]: https://linkedin.com/in/ujjwalkadam
 
