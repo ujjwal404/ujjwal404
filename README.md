@@ -1,5 +1,5 @@
 # Hi there, I'm Ujjwal 👋
-A pre-final year computer science undergraduate at NSUT, Delhi.
+A final year computer science undergraduate at NSUT, Delhi. You can know more about me [here](https://ujjwalkadam.tech/about).
 
 ### Connect with me:
 
