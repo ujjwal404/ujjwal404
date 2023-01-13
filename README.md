@@ -15,7 +15,7 @@ A final year computer science undergraduate at NSUT, Delhi. You can know more ab
 <br />
 
 ---
-[![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwal404&show_icons=true&theme=radical )](https://github-readme-stats.vercel.app/api?username=ujjwal404&show_icons=true&theme=radical )
+![snake eating contributions](https://github.com/ujjwal404/ujjwal404/blob/output/github-contribution-grid-snake.svg)
 
 
 [linkedin]: https://linkedin.com/in/ujjwalkadam
